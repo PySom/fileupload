@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileUpload", "FileUpload\FileUpload.csproj", "{43065FEF-0054-439C-9749-4EBC7E889732}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthWebApi.Asset", "..\AuthWebApi\AuthWebApi.Asset\AuthWebApi.Asset.csproj", "{5DC27578-2FBA-4E8D-A772-1730174CF912}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{43065FEF-0054-439C-9749-4EBC7E889732}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43065FEF-0054-439C-9749-4EBC7E889732}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43065FEF-0054-439C-9749-4EBC7E889732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DC27578-2FBA-4E8D-A772-1730174CF912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC27578-2FBA-4E8D-A772-1730174CF912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC27578-2FBA-4E8D-A772-1730174CF912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC27578-2FBA-4E8D-A772-1730174CF912}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
